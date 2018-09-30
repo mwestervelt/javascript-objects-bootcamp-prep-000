@@ -1,4 +1,4 @@
 var playlist = {
-  artistName: "prince";
+  artistName: "prince",
   songTitle: "purple rain"
 }
