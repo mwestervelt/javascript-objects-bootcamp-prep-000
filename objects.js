@@ -1,4 +1,5 @@
 var playlist = {
+  Prince: "purple rain"
 }
 function updatePlaylist(playlist, artistName, songTitle) {
   playlist[artistName] = songTitle
